@@ -6,7 +6,7 @@ int main(){
     rem = a % 2 ;
     
     if(rem == 0){
-        printf(" %d number is even ", a);
+        printf(" %d number is even ", a); // prints here
     }
     else{
         printf("%d is odd number", a);
