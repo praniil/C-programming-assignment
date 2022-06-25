@@ -12,6 +12,6 @@ int main(){
         if(number<100){
             printf("the number is smaller than 100 \n");
         }
-    }
+}
 
     
