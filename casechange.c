@@ -3,7 +3,7 @@ int main(){
     char a ;
     printf("input a character :");
     scanf("%c", &a);
-    if(a>67 && a<90){
+    if(a>67 && a<95){
         a= a + 32 ;
         printf("the lower case is :%c", a);
     }
